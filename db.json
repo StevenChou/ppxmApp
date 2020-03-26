@@ -18,20 +18,37 @@
     },
     {
       "id": 3,
-      "title": "側掛三",
-      "type": "default",
+      "title": "新增任務一[完成]",
+      "type": "new",
       "status": 0,
       "products": [
         {
           "id": 1,
-          "name": "商品四"
+          "name": "商品一"
         },
         {
           "id": 2,
-          "name": "商品五"
+          "name": "商品二"
         }
       ],
       "missionItems": []
+    },
+    {
+      "id": 4,
+      "title": "新增任務二[完成]",
+      "type": "new",
+      "status": 0,
+      "products": [
+        {
+          "id": 1,
+          "name": "商品三"
+        },
+        {
+          "id": 2,
+          "name": "商品四"
+        }
+      ],
+      "missionItems": ["photo"]
     }
   ]
 }
