@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "title": "新增任務一[完成]",
+      "title": "新增任務一[未完成]",
       "type": "new",
       "status": 0,
       "products": [
@@ -37,7 +37,7 @@
       "id": 4,
       "title": "新增任務二[完成]",
       "type": "new",
-      "status": 0,
+      "status": 1,
       "products": [
         {
           "id": 1,
