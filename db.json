@@ -17,6 +17,23 @@
         }
       ],
       "missionItems": ["photo"]
+    },
+    {
+      "id": 2,
+      "title": "側掛二",
+      "type": "default",
+      "status": 0,
+      "products": [
+        {
+          "id": 1,
+          "name": "商品四"
+        },
+        {
+          "id": 2,
+          "name": "商品五"
+        }
+      ],
+      "missionItems": []
     }
   ]
 }
