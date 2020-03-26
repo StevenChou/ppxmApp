@@ -3,19 +3,9 @@
     {
       "id": 1,
       "title": "側掛",
-      "type": "new",
+      "type": "default",
       "status": 1,
-      "products": [
-        { "id": 1, "name": "商品一" },
-        {
-          "id": 2,
-          "name": "商品二"
-        },
-        {
-          "id": 3,
-          "name": "商品三"
-        }
-      ],
+      "products": [],
       "missionItems": [""]
     },
     {
