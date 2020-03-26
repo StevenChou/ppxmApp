@@ -16,7 +16,7 @@
           "name": "商品三"
         }
       ],
-      "missionItems": ["photo"]
+      "missionItems": [""]
     },
     {
       "id": 2,
@@ -43,11 +43,11 @@
       "products": [
         {
           "id": 1,
-          "name": "商品六"
+          "name": "商品四"
         },
         {
           "id": 2,
-          "name": "商品七"
+          "name": "商品五"
         }
       ],
       "missionItems": []
