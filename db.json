@@ -4,7 +4,7 @@
       "id": 1,
       "title": "側掛",
       "type": "new",
-      "status": 0,
+      "status": 1,
       "products": [
         { "id": 1, "name": "商品一" },
         {
@@ -34,7 +34,23 @@
         }
       ],
       "missionItems": []
+    },
+    {
+      "id": 3,
+      "title": "側掛三",
+      "type": "default",
+      "status": 0,
+      "products": [
+        {
+          "id": 1,
+          "name": "商品六"
+        },
+        {
+          "id": 2,
+          "name": "商品七"
+        }
+      ],
+      "missionItems": []
     }
   ]
 }
-
