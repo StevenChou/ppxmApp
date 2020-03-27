@@ -125,5 +125,82 @@
         ]
       }
     ]
+  },
+  "getMissionDetail2": {
+    "id": "123456",
+    "type": "new",
+    "date": ["2020/03/01", "2020/03/25"],
+    "defaultItems": {
+      "date": ["2020/03/15", "2020/03/19"],
+      "pic": [],
+      "items": [
+        {
+          "id": 1,
+          "title": "",
+          "seat": "U10-0-01",
+          "no": "12345678",
+          "barcode": "",
+          "desc": "說明或提醒文字",
+          "contents": [
+            {
+              "name": "大類",
+              "num": 51
+            },
+            {
+              "name": "面層深",
+              "num": "3/1/4"
+            },
+            {
+              "name": "即時銷售",
+              "num": 12
+            },
+            {
+              "name": "開檔天數",
+              "num": 27
+            },
+            {
+              "name": "剩餘天數",
+              "num": 2
+            },
+            {
+              "name": "即時庫存",
+              "num": 12
+            },
+            {
+              "name": "在塗量",
+              "num": 10
+            }
+          ]
+        }
+      ]
+    },
+    "photo": true,
+    "inventory": [
+      {
+        "id": 1,
+        "title": "聯合利華康寶奶油風味獨享杯蘑菇13g*4入(52g)"
+      }
+    ],
+    "other": [
+      {
+        "id": 1,
+        "title": "配合雙11獨享杯試吃 --- [其他]",
+        "content": [
+          "試吃時間:2小時",
+          "試吃杯數:10杯",
+          "杯數吃完或時間到即結束試吃活動"
+        ],
+        "url": [
+          {
+            "name": "任務附件一",
+            "url": "https://drive.google.com/open?id=1UdDPGSYNjnkfaGqMpCnSIzR7T01zStO1"
+          },
+          {
+            "name": "任務附件二",
+            "url": "https://drive.google.com/file/d/1up9PIhxQfcu2t3BIN6-QU8rrtP4AbmtW/view?usp=sharing"
+          }
+        ]
+      }
+    ]
   }
 }
