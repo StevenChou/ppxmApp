@@ -4,7 +4,7 @@
       "id": 1,
       "title": "預設任務一[完成]",
       "type": 1,
-      "status": 1,
+      "status": 2,
       "products": [],
       "missionItems": []
     },
@@ -37,7 +37,7 @@
       "id": 4,
       "title": "新增任務二[完成]",
       "type": 0,
-      "status": 1,
+      "status": 2,
       "products": [
         {
           "id": 1,
